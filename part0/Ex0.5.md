@@ -1,4 +1,4 @@
-# 0.4: Single Page App (SPA) Diagram
+# 0.5: Single Page App (SPA) Diagram
 
 ```mermaid
 sequenceDiagram
