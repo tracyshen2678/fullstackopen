@@ -1,3 +1,6 @@
+# 0.4: New Note Diagram
+
+```mermaid
 sequenceDiagram
     participant User
     participant Browser
@@ -21,4 +24,5 @@ sequenceDiagram
     Server-->>Browser: JSON with updated notes
     deactivate Server
     Browser->>Browser: Render updated notes list
+
 
